@@ -1,24 +1,65 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#  hello rails back-end
 
-Things you may want to cover:
+> RoR api that give random greatings. 
+ 
+## Run the project locally 
+  `rails s`
 
-* Ruby version
+## Live Demo
+[Live Demo](https://sleepy-brook-35791.herokuapp.com/messages)
 
-* System dependencies
+  
+## Built With
 
-* Configuration
+- Ruby
+- Ruby linters
+- stylint linters
+- RoR
 
-* Database creation
+## preequests
 
-* Database initialization
+  - postgresql database in your machine
 
-* How to run the test suite
+## Getting Started
 
-* Services (job queues, cache servers, search engines, etc.)
+To get a local copy up and running follow these simple example steps.
+- for SSH:
+     - `git clone git@github.com:saied2035/hello-rails-back-end.git`
+- for https:
+     - `git clone https://github.com/saied2035/hello-rails-back-end.git`
 
-* Deployment instructions
+then run:
 
-* ...
+- `bundle install`
+- `npm install`
+
+## Run tests
+ Run `rspec`
+ 
+## Authors
+
+👤 **Saied Gaffer**
+
+- GitHub: [@Saied2035](https://github.com/saied2035)
+- Twitter: [@SaiedGaffer](https://twitter.com/SaiedGaffer)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/saiedgaffer/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/saied2035/hello-rails-back-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse: [microverse community](https://github.com/microverseinc)
+
+## 📝 License
+
+This project is [MIT](./MIT) licensed.
