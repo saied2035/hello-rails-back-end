@@ -39,7 +39,7 @@ then run:
  Run `rspec`
  
  ## React app repo:
-[hello-rails-front-end](https://github.com/saied2035/hello-react-front-end))
+[hello-rails-front-end](https://github.com/saied2035/hello-react-front-end)
  
 ## Authors
 
