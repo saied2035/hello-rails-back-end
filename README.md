@@ -6,10 +6,6 @@
  
 ## Run the project locally 
   `rails s`
-
-## Live Demo
-[Live Demo](https://sleepy-brook-35791.herokuapp.com/messages)
-
   
 ## Built With
 
